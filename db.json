@@ -1,0 +1,18 @@
+{
+  "menuItem": [
+    {
+      "id": 1,
+      "name" : "bolonjez"
+      "description: "spageti bolonjez",
+      "imgUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/easy_spaghetti_bolognese_93639_16x9.jpg",
+      "price": 20.00
+    },
+    {
+      "id": 2,
+      "name" : "test2"
+      "description: "testDesc2",
+      "imgUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/easy_spaghetti_bolognese_93639_16x9.jpg",
+      "price": 15
+    }
+  ]
+}
